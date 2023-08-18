@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//                           TASK-2
+//                           TASK-1
 // To develop a calculator in order to have basic arithmetic functions
 // addition, subtraction, multiply, division
 
